@@ -1,4 +1,4 @@
-# ODM-deme
+# ODM-demo
 
 ## Run command
 cd images ; python /opt/OpenDroneMap/run.py ; cd .. ; tar -czvf result.tar.gz images
